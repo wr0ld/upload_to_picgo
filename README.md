@@ -191,7 +191,7 @@ DOCX_PATH = r"D:\Backup\桌面\pikachu\pikachu.docx"
 
 ```bash
 # 直接下载
-https://github.com/Tjsdrj/BlogImage  # 或你存放的仓库地址
+[https://github.com/Tjsdrj/BlogImage](https://github.com/Tjsdrj/upload_to_picgo/releases)  # 或你存放的仓库地址
 ```
 
 ---
